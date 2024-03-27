@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 8,
+      "text": "This is the item 1 coming from backened"
+    },
+    {
+      "id": "2",
+      "text": "This is the item 2 coming from backened",
+      "rating": 9
+    },
+    {
+      "id": "ebbe",
+      "text": "you are a very important person in my life",
+      "rating": 10
+    }
+  ]
+}
